@@ -1,0 +1,7 @@
+#Wed Nov 30 20:06:12 EST 2016
+base.0=/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_63f052d4bacc0a82018dc74cdf8377efc75c2c4b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6b3c2561e9b6e0b6ae2da1a39aa52392871475e8/classes.dex
+base.1=/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6b3c2561e9b6e0b6ae2da1a39aa52392871475e8
+file.0=/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_63f052d4bacc0a82018dc74cdf8377efc75c2c4b/classes.dex

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_63f39af8dae53883a967ef8b76ec5a14ca4daa4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.0.0_08243e2a4dfadfed98258df627c73e280967d736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_6d1e482eb44239359ac237b1c4fb2deded1a8e10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_d0ebd288b810e3b0e30654462e0eb009d5b3f8da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2fe40e6c54a8cc0c809caefd623f536182affda7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_4cd7f49cd82f7def028ecde48b8f074c3db34830/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_3e4a9a658cff6a7bd5c85a2ee6fb3fdddacf4d2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ed5549afe1a04309a457402533e877313bfab0ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="363c2041abf1f58e6f0d5190bd319f6a3a5621fc">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6b3c2561e9b6e0b6ae2da1a39aa52392871475e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d1145e96b05f04b8dfc3b61fcd99d08d9bdb62d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9121625f33f9ab797d5a75cc80a6d8bd16553312/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_d60d75141e92164e002d5564f2c6b5108151da8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_72142f3fcec781df4ad8c424c7727523e51a7f81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_c925b3e5bb32986c9b070f2cd8d96edd50d769b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_9f22a9dc6e93188ecc7429e3ab07674dd25413d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f121ddf59bb110966397d4f77da50eec5452652">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_63f052d4bacc0a82018dc74cdf8377efc75c2c4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="23c7c34bfb3cdc0599d49e581486b179bc6b2eee">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.17.0_02746ade5efa6e753998e07fa5f7a0777f5d5bc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_9f1cc32f713ac61eb0423e08d4779f45fdea24c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_1667a17663e2c2667094f5ee26ed0c97324ff271/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_8c184de6ecad53e7c69aba74a9943fdeb23c29f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_6c653263b266c6c73d568f1463ac71d7356983c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/hongchen/Downloads/EC602_HW2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8d7052be8b42c630892be28250aed0cf5f47fa57/classes.dex" />
+    </item>
+
+</items>
